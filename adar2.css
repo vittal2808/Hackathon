@@ -1,0 +1,59 @@
+label{
+    font-size:120%;
+    color:#000000;
+}
+table{
+    border-style:initial;
+    border-color: rgb(82, 81, 81);
+    background-color: rgb(248, 247, 247);
+    margin-left:240px;
+    
+}
+.adrs{
+   width: 470px; 
+   height: 25px;
+   border:none;
+   font-size:large;
+   background-color:transparent;
+   margin:5px;
+   box-sizing: border-box;
+   
+   
+}
+input{
+    color: rgb(15, 15, 15);
+}
+
+th{
+    font-size:1.39em;
+    text-align:center;
+    color:#e7e7e7;
+    background-color:#242424;
+    padding:15px 163px 15px 163px;
+
+}
+body{
+  
+    background-color:#383838;
+    
+}
+
+
+.button{
+    font-size: 15px;
+    padding: 10px;
+    color:#d1e8e2;
+    background-color: #383838;
+    margin-left:600px;
+    
+    
+}
+#heading{
+    text-align:center;
+    
+    font-size:30px;
+    font-family:sans-serif;
+    color:#e7e7e7;
+  
+   
+}
